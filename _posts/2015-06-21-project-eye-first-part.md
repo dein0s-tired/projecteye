@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Проект "Око", часть первая' 
-
+permalink: project-eye-first-chapter
 meta_description: 'Проект "Око", часть первая'
 browser_title: 'Проект "Око", часть первая'
 categories: projecteye
